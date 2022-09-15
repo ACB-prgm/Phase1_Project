@@ -1,0 +1,40 @@
+font.weight:            bold
+text.color:             737373
+
+axes.titlesize :        18
+axes.labelsize :        14
+axes.titlecolor:        737373
+axes.labelcolor:        737373
+axes.titleweight:       bold
+axes.labelweight:       bold
+axes.facecolor:         white
+axes.edgecolor:         737373
+axes.linewidth:         1.5
+axes.prop_cycle:        cycler('color',["7FBA00"])
+
+patch.edgecolor:        737373  # if forced, or patch is not filled
+patch.force_edgecolor:  True  # True to always use edgecolor
+
+axes.axisbelow:         True
+axes.grid:              True
+axes.grid.axis:         y
+grid.color:             737373
+grid.alpha:             0.5
+
+xtick.color:            737373
+ytick.color:            737373
+xtick.labelsize:        12
+ytick.labelsize:        12
+
+figure.figsize:         12, 5
+figure.dpi:             150
+figure.facecolor:       FAFAFA
+figure.edgecolor:       737373
+figure.titleweight:     bold
+figure.titlesize:       20
+figure.autolayout:      True
+
+
+# FAFAFA light grey
+# 737373 grey
+# 7FBA00 green
