@@ -2,6 +2,7 @@ font.weight:            bold
 text.color:             737373
 
 axes.titlesize :        18
+#axes.titlepad:          20
 axes.labelsize :        14
 axes.titlecolor:        737373
 axes.labelcolor:        737373
