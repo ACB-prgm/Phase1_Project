@@ -4,9 +4,11 @@
 The purpose of this project was to discover which types of films are currently performing "the best" at the box office in order to inform a company attempting to enter into the film industry. For the purposes of this analysis, I take "the best" to mean those which are the most profitable, and thus made my deductions based on metrics of **net profit** and **Return on investment (ROI)**. I compared films in the database based upon the correlations between their afformentioned metrics and runtime, genre, actors, writers, and directors.
 
 ## Business Understanding
-Which genres, writers, and directors are associated with the highest net profit and ROI?
+Which genres, writers, and directors are associated with the highest net profit and ROI?  More succinctly, which aspects of a film best predict it's profitability and success?
 
 Both net profit and ROI are good markers of profitability, but ROI factors in cost more so than net profit. Thus, if cost/budget is not a concern, net profit is preferred over ROI and vice versa if budget is a concern.
+
+The conclusions drawn from this analysis should prove beneficial to stakeholders entering into the film production industry, as well as veterans, in determining the characteristics of future films to create.
 
 ## Data
 I utilized the *TMDB 5000 Movie Dataset* available on [kaggle](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata).
