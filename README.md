@@ -1,7 +1,7 @@
 # Phase 1 Project – Movie Analysis
 
 ## Overview
-The purpose of this project was to discover which types of films are currently performing "the best" at the box office in order to inform a company attempting to enter into the film industry. For the purposes of this analysis, I take "the best" to mean those which are the most profitable, and thus made my deductions based on metrics of **net profit** and **Return on investment (ROI)**. I compared films in the database based upon the correlations between their afformentioned metrics and runtime, genre, actors, writers, and directors.
+The purpose of this project was to discover which types of films are currently performing "the best" at the box office in order to inform a company attempting to enter into the film industry. For the purposes of this analysis, I take "the best" to mean those which are the most profitable, and thus made my deductions based on metrics of **net profit** and **Return on investment (ROI)**. I compared films in the database based upon the correlations between their afformentioned metrics and runtime, genre, actors, writers, and directors. A presentation of this analysis can be found [here](https://github.com/ACB-prgm/Phase1_Project/blob/main/presentation.pdf). [student.ipynb](https://github.com/ACB-prgm/Phase1_Project/blob/main/notebooks/student.ipynb) contains the python code and analysis.
 
 ## Business Understanding
 Which genres, writers, and directors are associated with the highest net profit and ROI?  More succinctly, which aspects of a film best predict it's profitability and success?
@@ -11,7 +11,8 @@ Both net profit and ROI are good markers of profitability, but ROI factors in co
 The conclusions drawn from this analysis should prove beneficial to stakeholders entering into the film production industry, as well as veterans, in determining the characteristics of future films to create.
 
 ## Data
-I utilized the *TMDB 5000 Movie Dataset* available on [kaggle](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata).
+I utilized the *TMDB 5000 Movie Dataset* available on [kaggle](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata). [Here](https://github.com/ACB-prgm/Phase1_Project/tree/main/TMDB_5000) in this repository.
+
 This database contains information about 5,000 relevant films'
 - Title
 - Profit
