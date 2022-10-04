@@ -27,13 +27,19 @@ This database contains information about 5,000 relevant films'
 ![genres](https://user-images.githubusercontent.com/63984796/192377131-8276313c-caeb-412e-8dbe-0454a6246ca6.png)
 
 
-## Conclusion
-The top two genres by **net profit** are Animation and Family.
-Grouping the top Writers and Directors by these genres, two potential movies are:
-1. An Animated film written by Timothy Harris and directed by Karey Kirkpatrick.
-2. A Family film written by Herschel Weingrod and directed by Michael Apted.
+# Conclusion and Discussion of Limitations
 
-The top two genres by **ROI** are Music and Horror.
-Grouping the top Writers and Directors by these genres, two potential movies are:
-1. A Musical film written by Jason Segel and directed by Robert Wise.
-2. A Horror film written by Laura Lau and directed by Scott Derrickson.
+Using the information from the previous cell in conjunction with those prior, I am able to make reccomendations about 4 potential films that would be highly profitable.
+
+#### To Maximize Net Profit
+The top two genres by net profit are Animation and Family. Grouping the top Writers and Directors by these genres, two potential movies are:
+1. An **Animated** film *written* by **Timothy Harris** and *directed* by **Karey Kirkpatrick**.
+2. A **Family** film *written* by **Herschel Weingrod** and *directed* by **Michael Apted**.
+
+#### To Maximize ROI
+The top two genres by ROI are Music and Horror. Grouping the top Writers and Directors by these genres, two potential movies are:
+1. A **Musical** film *written* by **Jason Segel** and *directed* by **Robert Wise**.
+2. A **Horror** film *written* by **Laura Lau** and *directed* by **Scott Derrickson**.
+
+## Limitations
+Several limitations were proposed by the data used in this process. One would of course be the sample size. While 5000 is large enough to draw statistical conclusions, more is always better; particularly when making conclusions about individuals involved. With more samples, it is unlikely the genre analysis would have changed, but it is possible that the analysis of successful writers, directors, and actors would have been different. Secondly, this database did not have data corresponding to the rating of the films. From several other online analyses with similar goals, It would seem that rating may be an important marker correlating with profitability. 
